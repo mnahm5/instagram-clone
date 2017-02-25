@@ -1,0 +1,7 @@
+#Sat Feb 25 13:41:35 AEDT 2017
+base.0=D\:\\Personal_Projects\\Android Course\\instagram-clone\\InstagramClone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2478582dd5db0cf2b6b5ff39bf32910fa4da5693
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Personal_Projects\\Android Course\\instagram-clone\\InstagramClone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3e6a8629ec1b61f134e47da9ae4699fb2b3fd926\\classes.dex
+base.1=D\:\\Personal_Projects\\Android Course\\instagram-clone\\InstagramClone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3e6a8629ec1b61f134e47da9ae4699fb2b3fd926
+file.0=D\:\\Personal_Projects\\Android Course\\instagram-clone\\InstagramClone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2478582dd5db0cf2b6b5ff39bf32910fa4da5693\\classes.dex
