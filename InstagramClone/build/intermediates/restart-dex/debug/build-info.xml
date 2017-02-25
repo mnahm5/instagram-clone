@@ -5,30 +5,30 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="494510246864197"
+    timestamp="27832500198320"
     token="1547933834544807736"
-    verifier="MANIFEST_FILE_CHANGE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="576" />
+        duration="5439" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="230" />
+        duration="1107" />
     <task
         name="verifier"
-        duration="24" />
+        duration="129" />
 
     <artifact
         location="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\outputs\apk\InstagramClone-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="494510246864197"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="27832500198320"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\outputs\apk\InstagramClone-debug.apk"
             type="MAIN" />

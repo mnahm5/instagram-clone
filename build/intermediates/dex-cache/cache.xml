@@ -12,20 +12,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\mnahm5\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_1bedf92c588823b9c832cf3720259d428bfd8732\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="dde5518d6dff72697c238fc50b48e0ff597162ad">
+        sha1="334f0b235f59dc4f58df13e790fe26bd2341f240">
         <dex dex="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3e6a8629ec1b61f134e47da9ae4699fb2b3fd926\classes.dex" />
     </item>
     <item
@@ -36,6 +27,15 @@
         revision="23.0.1"
         sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
         <dex dex="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_ed874f7bbff7277263753c58f10129bc5f3829f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mnahm5\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_1bedf92c588823b9c832cf3720259d428bfd8732\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="8feeff0881cc28d9c7dce1e926f3905b0a67b209">
+        sha1="3ff0dbac3daff21f3facedaea5d38d802c6021e7">
         <dex dex="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2478582dd5db0cf2b6b5ff39bf32910fa4da5693\classes.dex" />
     </item>
 

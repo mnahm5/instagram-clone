@@ -1736,6 +1736,8 @@ containing a value of this type.
         public static final int AlertDialog_AppCompat_Light=0x7f080074;
         public static final int Animation_AppCompat_Dialog=0x7f080075;
         public static final int Animation_AppCompat_DropDownUp=0x7f080076;
+        /**  Customize your theme here. 
+         */
         public static final int AppTheme=0x7f080077;
         public static final int Base_AlertDialog_AppCompat=0x7f080078;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f080079;
