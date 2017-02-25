@@ -5,26 +5,21 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="27832500198320"
-    token="1547933834544807736"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="29056340051089"
+    token="1547933834544807736" >
 
     <task
         name="javac"
-        duration="5439" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1107" />
+        duration="0" />
     <task
         name="verifier"
-        duration="129" />
-
-    <artifact
-        location="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\outputs\apk\InstagramClone-debug.apk"
-        type="MAIN" />
+        duration="0" />
 
     <build
         timestamp="27832500198320"
@@ -33,5 +28,13 @@
             location="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\outputs\apk\InstagramClone-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="29033256728290"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="29056340051089" />
 
 </instant-run>

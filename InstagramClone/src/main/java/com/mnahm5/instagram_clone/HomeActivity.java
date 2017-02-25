@@ -16,8 +16,13 @@ import android.widget.Toast;
 
 import com.parse.LogOutCallback;
 import com.parse.ParseException;
+import com.parse.ParseFile;
+import com.parse.ParseObject;
 import com.parse.ParseUser;
+import com.parse.SaveCallback;
 
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
 public class HomeActivity extends AppCompatActivity {
@@ -110,6 +115,35 @@ public class HomeActivity extends AppCompatActivity {
                         "Photos Received",
                         Toast.LENGTH_SHORT
                 ).show();
+
+                ByteArrayOutputStream stream = new ByteArrayOutputStream();
+                image.compress(Bitmap.CompressFormat.PNG, 100, stream);
+                byte[] byteArray = stream.toByteArray();
+                ParseFile file = new ParseFile("image.png", byteArray);
+                
+                ParseObject object = new ParseObject("Image");
+                object.put("image", file);
+                object.put("username", ParseUser.getCurrentUser().getUsername());
+                object.saveInBackground(new SaveCallback() {
+                    @Override
+                    public void done(ParseException e) {
+                        if (e == null) {
+                            Toast.makeText(
+                                    getApplicationContext(),
+                                    "Image Shared",
+                                    Toast.LENGTH_SHORT
+                            ).show();
+                        }
+                        else {
+                            Toast.makeText(
+                                    getApplicationContext(),
+                                    "Error Occured\n" + e.getMessage(),
+                                    Toast.LENGTH_SHORT
+                            ).show();
+                        }
+                    }
+                });
+
             }
             catch (IOException e) {
                 e.printStackTrace();
