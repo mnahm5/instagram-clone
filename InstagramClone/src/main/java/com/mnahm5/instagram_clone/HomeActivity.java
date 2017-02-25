@@ -120,7 +120,7 @@ public class HomeActivity extends AppCompatActivity {
                 image.compress(Bitmap.CompressFormat.PNG, 100, stream);
                 byte[] byteArray = stream.toByteArray();
                 ParseFile file = new ParseFile("image.png", byteArray);
-                
+
                 ParseObject object = new ParseObject("Image");
                 object.put("image", file);
                 object.put("username", ParseUser.getCurrentUser().getUsername());
