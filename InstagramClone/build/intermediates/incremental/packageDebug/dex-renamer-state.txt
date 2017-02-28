@@ -1,4 +1,4 @@
-#Sun Feb 26 01:06:02 AEDT 2017
+#Wed Mar 01 09:32:55 AEDT 2017
 base.0=D\:\\Personal_Projects\\Android Course\\instagram-clone\\InstagramClone\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2478582dd5db0cf2b6b5ff39bf32910fa4da5693
 renamed.1=classes.dex
 renamed.0=classes2.dex

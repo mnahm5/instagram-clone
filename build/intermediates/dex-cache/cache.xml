@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="334f0b235f59dc4f58df13e790fe26bd2341f240">
+        sha1="896acefc40a2a2cebc548a000114d93fb7b62251">
         <dex dex="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3e6a8629ec1b61f134e47da9ae4699fb2b3fd926\classes.dex" />
     </item>
     <item
@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="3ff0dbac3daff21f3facedaea5d38d802c6021e7">
+        sha1="dfcd4e8fbf0f99428510eb602dbe93312f0877ed">
         <dex dex="D:\Personal_Projects\Android Course\instagram-clone\InstagramClone\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2478582dd5db0cf2b6b5ff39bf32910fa4da5693\classes.dex" />
     </item>
 
